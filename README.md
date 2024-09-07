@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Zowega/Zowega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Artem, I am 22 years old and live in the city of Yurga, Russian Federation. 
+Currently, I work as a 1C programmer with 4 months of experience in this field.
 
-Here are some ideas to get you started:
+Currently, I am actively studying the programming language Python to become an ML engineer in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Education:** 
+### Secondary special education. 
+Date of training: *2020 - 2023*
+*GPUI Yurginsky Technological College named after Pavlyuchkov G. A.* 
+**Direction:** *Applied Informatics in Fields (in Economics)*
+**Diploma:** *Programming technician*
+
