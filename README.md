@@ -16,7 +16,7 @@ Currently, I am actively studying the programming language Python to become an M
 ## My Skills ##
 
 **Fundamental:** Windows, Linux, SQL
-**Applied:** HTML, CSS, JS (Base), Python (Base), Flsk, NumPy, SQLalchemy.
+**Applied:** HTML, CSS, JS (Base), Python (Base), Flsk, NumPy, SQLalchemy, Pandas
 
 
 
